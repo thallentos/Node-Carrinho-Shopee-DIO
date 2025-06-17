@@ -1,0 +1,21 @@
+{
+  "name": "node-carrinho-shopee-dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thallentos/Node-Carrinho-Shopee-DIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/thallentos/Node-Carrinho-Shopee-DIO/issues"
+  },
+  "homepage": "https://github.com/thallentos/Node-Carrinho-Shopee-DIO#readme"
+}
